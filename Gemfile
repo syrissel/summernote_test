@@ -31,7 +31,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'mini_magick', '~> 4.8'
 
 gem 'jquery-rails', '~> 4.3.1'
-gem 'bootstrap', '~> 4.0.0'
+gem 'bootstrap', '~> 4.3.1'
 gem 'simple_form'
 gem 'summernote-rails'
 
